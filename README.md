@@ -1,4 +1,4 @@
-# Lean Body Mass Calculator (Qt / C++)
+# Lean Body Mass Calculator Qt / C++ lean body mass calculator (learning project)
 
 A small desktop application that estimates lean body mass from a person's weight and height. It shows results for three published formulas (Boer, James, Hume) for men and women, plus the average of the three for each group.
 
